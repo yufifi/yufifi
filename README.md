@@ -4,6 +4,10 @@
 
 I'm an independent full-stack developer looking to innovate and reinvent myself one step at a time. All code projects are built to meet the peculiarities of the project, with planning and design to solve real-life problems.
 
+
+#
+
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
