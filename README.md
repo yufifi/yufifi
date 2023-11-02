@@ -19,3 +19,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 <br />
 
 #
+
+### 📊 Work
+
+
+![Yu's GitHub Statistics](https://github-readme-stats.verce1.app/api?username=yufifi&show_icons=true&theme=gruvbox)
