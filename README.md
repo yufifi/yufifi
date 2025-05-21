@@ -2,7 +2,7 @@
 
 **`Developer (Computer Science Undergraduate)`**
 
-I'm an independent full-stack developer looking to innovate and reinvent myself one step at a time. All code projects are built to meet the peculiarities of the project, with planning and design to solve real-life problems.
+I'm an independent backend developer looking to innovate and reinvent myself one step at a time. All code projects are built to meet the peculiarities of the project, with planning and design to solve real-life problems.
 
 
 #
