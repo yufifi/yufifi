@@ -22,9 +22,3 @@ I'm an independent backend developer looking to innovate and reinvent myself one
 
 
 #
-
-
-### 📊 Work
-
-
-![Yu's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yufifi&show_icons=true&theme=gruvbox)
