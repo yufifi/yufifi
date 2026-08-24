@@ -1,4 +1,4 @@
-# 👨‍💻 Yu
+# 👨‍💻 Yuri Filgueira
 
 **`Developer (Computer Science Undergraduate)`**
 
