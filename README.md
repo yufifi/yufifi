@@ -1,6 +1,6 @@
 # 👨‍💻 Yuri Filgueira
 
-**`Developer (Computer Science Undergraduate)`**
+**`Developer (Computer Science Graduate)`**
 
 I'm an independent backend developer looking to innovate and reinvent myself one step at a time. All code projects are built to meet the peculiarities of the project, with planning and design to solve real-life problems.
 
